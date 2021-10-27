@@ -12,6 +12,7 @@ Source.cpp
 Sample-Manager-Settings.txt
 
 **How to use**
+
 Have the build located on the disk as the future folder structure. Open up the settings file.
 1. Replace first path with a folder for unsorted files.
 2. Replace second path with a folder for the sorted files.
