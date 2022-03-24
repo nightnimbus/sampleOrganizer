@@ -27,4 +27,5 @@ C:\Users\USERNAME\Music\Sorted\Folder\NestedFolder\NestedFolder\Folder_NestedFol
 **Special Characters**
 
 '_' -> Folders
+
 '-' -> Wont create a folder, us this to seperate names or descriptions
