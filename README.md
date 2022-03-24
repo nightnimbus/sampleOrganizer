@@ -25,5 +25,6 @@ handy reference sheet for your naming convention!
 C:\Users\USERNAME\Music\Sorted\Folder\NestedFolder\NestedFolder\Folder_NestedFolder_NestedFolder2_Name-of-the-file.wav
 
 **Special Characters**
+
 '_' -> Folders
 '-' -> Wont create a folder, us this to seperate names or descriptions
